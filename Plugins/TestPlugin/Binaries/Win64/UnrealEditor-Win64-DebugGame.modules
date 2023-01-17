@@ -1,0 +1,7 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"TestPlugin": "UnrealEditor-TestPlugin-Win64-DebugGame.dll"
+	}
+}

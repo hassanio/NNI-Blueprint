@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestPlugin-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\ProfK_RA\NNI-Blueprint\Intermediate\Build\Win64\MyProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"E:\ProfK_RA\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TestPlugin\Module.TestPlugin.cpp.obj"
+"E:\ProfK_RA\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TestPlugin\Module.TestPlugin.gen.cpp.obj"
+"E:\ProfK_RA\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TestPlugin\Default.rc2.res"
+/OUT:"E:\ProfK_RA\NNI-Blueprint\Plugins\TestPlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TestPlugin\UnrealEditor-TestPlugin-Win64-DebugGame.lib"

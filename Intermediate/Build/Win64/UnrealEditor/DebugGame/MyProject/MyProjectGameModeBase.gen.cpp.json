@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myprojectgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\debuggame\\myproject\\definitions.myproject.h",
+            "e:\\profk_ra\\nni-blueprint\\source\\myproject\\myprojectgamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myprojectgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

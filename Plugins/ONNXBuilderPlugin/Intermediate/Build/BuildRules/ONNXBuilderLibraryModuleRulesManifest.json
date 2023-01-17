@@ -1,7 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\projects\\UE5\\ONNXBuilder\\Plugins\\ONNXBuilderLibrary\\Source\\ONNXBuilderLibrary\\ONNXBuilderLibrary.Build.cs",
-		"D:\\projects\\UE5\\ONNXBuilder\\Plugins\\ONNXBuilderLibrary\\Source\\ThirdParty\\ONNXBuilderLibraryLibrary\\ONNXBuilderLibraryLibrary.Build.cs"
-	],
-	"EngineVersion": "5.0.3"
-}

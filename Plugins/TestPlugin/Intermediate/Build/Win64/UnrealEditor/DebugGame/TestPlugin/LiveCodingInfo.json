@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TestPlugin.cpp.obj": [
+			"TestPlugin.cpp.obj",
+			"TestPluginBPLibrary.cpp.obj"
+		],
+		"Module.TestPlugin.gen.cpp.obj": [
+			"TestPlugin.init.gen.cpp.obj",
+			"TestPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\unrealeditor\\debuggame\\myproject\\definitions.myproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

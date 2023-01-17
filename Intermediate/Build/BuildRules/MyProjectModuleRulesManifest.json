@@ -1,9 +1,11 @@
 {
 	"SourceFiles": [
-		"E:\\ProfK_RA\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
-		"E:\\ProfK_RA\\MyProject\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
-		"E:\\ProfK_RA\\MyProject\\Source\\MyProject.Target.cs",
-		"E:\\ProfK_RA\\MyProject\\Source\\MyProjectEditor.Target.cs"
+		"E:\\ProfK_RA\\NNI-Blueprint\\Source\\MyProject\\MyProject.Build.cs",
+		"E:\\ProfK_RA\\NNI-Blueprint\\Plugins\\ONNXBuilderPlugin\\Source\\ONNXBuilderLibrary\\ONNXBuilderLibrary.Build.cs",
+		"E:\\ProfK_RA\\NNI-Blueprint\\Plugins\\ONNXBuilderPlugin\\Source\\ThirdParty\\ONNXBuilderLibraryLibrary\\ONNXBuilderLibraryLibrary.Build.cs",
+		"E:\\ProfK_RA\\NNI-Blueprint\\Plugins\\TestPlugin\\Source\\TestPlugin\\TestPlugin.Build.cs",
+		"E:\\ProfK_RA\\NNI-Blueprint\\Source\\MyProject.Target.cs",
+		"E:\\ProfK_RA\\NNI-Blueprint\\Source\\MyProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

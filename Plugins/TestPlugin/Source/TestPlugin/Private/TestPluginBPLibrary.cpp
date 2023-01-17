@@ -3,6 +3,7 @@
 #include "TestPluginBPLibrary.h"
 #include "TestPlugin.h"
 #include <NeuralNetworkInference\Public\NeuralNetwork.h>
+#include <ONNXBuilderLibrary\Public\ONNXBuilderLibrary.h>
 
 class NEURALNETWORKINFERENCE_API UNeuralNetwork;
 

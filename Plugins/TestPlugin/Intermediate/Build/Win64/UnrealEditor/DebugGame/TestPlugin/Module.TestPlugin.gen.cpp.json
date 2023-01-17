@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\debuggame\\testplugin\\module.testplugin.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\debuggame\\testplugin\\definitions.testplugin.h",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testplugin.init.gen.cpp",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.gen.cpp",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\source\\testplugin\\public\\testpluginbplibrary.h",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

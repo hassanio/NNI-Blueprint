@@ -1,0 +1,42 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\debuggame\\testplugin\\module.testplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\profk_ra\\nni-blueprint\\intermediate\\build\\win64\\myprojecteditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\debuggame\\testplugin\\definitions.testplugin.h",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\source\\testplugin\\private\\testplugin.cpp",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\source\\testplugin\\public\\testplugin.h",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\source\\testplugin\\private\\testpluginbplibrary.cpp",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\source\\testplugin\\public\\testpluginbplibrary.h",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\testplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\testplugin\\testpluginbplibrary.generated.h",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\source\\neuralnetworkinference\\public\\neuralnetwork.h",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\source\\neuralnetworkinference\\public\\neuralenumclasses.h",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\intermediate\\build\\win64\\unrealeditor\\inc\\neuralnetworkinference\\neuralenumclasses.generated.h",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\source\\private\\neuralnetworkinferenceprofiling\\public\\neuralstatistics.h",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\source\\neuralnetworkinference\\public\\neuraltensor.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphbuilder.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphevent.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphevent.inl",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphresources.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphparameter.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphtexturesubresource.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rhi\\public\\rhitransientresourceallocator.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphresources.inl",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphpass.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphparameters.inl",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphtrace.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphvalidation.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphblackboard.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\generatedtypename.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\rendercore\\public\\rendergraphbuilder.inl",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\algorithm",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\intermediate\\build\\win64\\unrealeditor\\inc\\neuralnetworkinference\\neuraltensor.generated.h",
+            "e:\\ue_5.0\\engine\\plugins\\experimental\\nni\\intermediate\\build\\win64\\unrealeditor\\inc\\neuralnetworkinference\\neuralnetwork.generated.h",
+            "e:\\profk_ra\\nni-blueprint\\plugins\\onnxbuilderplugin\\source\\onnxbuilderlibrary\\public\\onnxbuilderlibrary.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
